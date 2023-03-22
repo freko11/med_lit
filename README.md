@@ -1,1 +1,1 @@
-# [med_lit[(https://med-lit.onrender.com/)
+# [med_lit](https://med-lit.onrender.com/)
