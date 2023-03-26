@@ -1,6 +1,6 @@
 # [Med Lit](https://med-lit.onrender.com)
 
-A TFLite converted [ResNet V2](https://tfhub.dev/google/imagenet/resnet_v2_152/feature_vector/5) classification model trained on [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). 
+A [pretrained token embedding](https://tfhub.dev/google/universal-sentence-encoder/4) deep learning model trained on [PubMed RCT 200K dataset](https://github.com/Franck-Dernoncourt/pubmed-rct) to classify abstracts of medical paper into various categories for easier reading.
 
 
 ## Credits
